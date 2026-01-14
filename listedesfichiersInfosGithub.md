@@ -1,22 +1,28 @@
-Outre README.md, voici les fichiers couramment utilisés dans un dépôt GitHub et leur utilité (emplacement conseillé : racine du dépôt ou dossier .github / docs selon le cas) :
+- Outre README.md, voici les fichiers couramment utilisés dans un dépôt GitHub et leur utilité (emplacement conseillé : racine du dépôt ou dossier .github / docs selon le cas) :
 
-    LICENSE — licence du projet (rend le projet réellement open source).
-    CONTRIBUTING.md — guide pour contribuer au projet (procédures, bonnes pratiques).
-    CODE_OF_CONDUCT.md — règles de conduite pour les contributeurs.
-    CITATION ou CITATION.cff — information sur la manière de citer le logiciel.
-    CODEOWNERS — définit les personnes/équipes responsables de parties du code (contrôle des revues/approbations).
-    .gitattributes — règles Git/GitHub (ex. marquer des fichiers comme linguist-generated pour exclure des diffs/langage).
-    Fichiers de documentation supplémentaires (docs/), pages Markdown pour la doc (ex. docs/CONTRIBUTING.md).
-    Fichiers de configuration et d’affichage : image de prévisualisation pour les réseaux sociaux (configurable via docs/images), badges, etc.
-    Fichiers non-code rendus par GitHub : .ipynb (Jupyter Notebook, rendu en HTML statique), .mermaid/.mmd (diagrammes Mermaid rendus), .geojson/.topojson (cartes, si valides).
+- LICENSE ou license.txt —> licence du projet (rend le projet réellement open source).
+    
+- CONTRIBUTING.md —> guide pour contribuer au projet (procédures,test,format, bonnes pratiques).
+  
+- CODE_OF_CONDUCT ou CODE_OF_CONDUCT.md —> règles de conduite pour les contributeurs.
+  
+- CITATION ou CITATION.cff —> information sur la manière de citer le logiciel dans les publications.
 
-Bonnes pratiques rapides :
+- CODEOWNERS —> définit les personnes/équipes responsables de parties du code (contrôle des revues/approbations).
+    
 
-    Placez README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, et CODEOWNERS à la racine ou dans .github/.
-    Mettez la documentation longue dans docs/.
-    Utilisez des liens relatifs dans vos Markdown pour référencer d’autres fichiers (ex. docs/CONTRIBUTING.md).
+## Bonnes pratiques rapides :
 
-Pour créer/éditer ces fichiers directement sur GitHub : ouvrez le dépôt → Add file / Create new file ou cliquez sur un fichier existant → Edit file → Commit changes.
+- lacez README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, et CODEOWNERS à la racine ou dans .github/.
+- Mettez la documentation longue dans docs/.
+- tilisez des liens relatifs dans vos Markdown pour référencer d’autres fichiers (ex. docs/CONTRIBUTING.md).
+- Pour créer/éditer ces fichiers directement sur GitHub : ouvrez le dépôt → Add file / Create new file ou cliquez sur un fichier existant → Edit file → Commit changes.
+
+## infos utiles plus (à tester)
+  
+- Emplacements importants : GitHub choisit le README à afficher selon l’ordre .github/ → racine → docs/. Vous pouvez aussi mettre d’autres fichiers info dans .github/ ou docs/ pour les centraliser.
+- .gitattributes — règles Git/GitHub (ex. marquer des fichiers comme linguist-generated pour exclure des diffs/langage).
+- Fichiers de configuration et d’affichage : image de prévisualisation pour les réseaux sociaux (configurable via docs/images), badges, etc.
 
 ## Sources Copilot
 
