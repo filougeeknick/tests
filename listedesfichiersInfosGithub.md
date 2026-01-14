@@ -1,6 +1,6 @@
 ## Voici les fichiers couramment utilisés dans un dépôt GitHub et leur utilité 
 
-Emplacements possibles: racine du dépôt ou dossier .github / docs selon le cas
+Emplacements possibles: racine du dépôt ou dossier .github ou / docs
 
 - README.md -> explications affichées en dessousous de l'affichage du code dans GITHUB
 
@@ -15,18 +15,19 @@ Emplacements possibles: racine du dépôt ou dossier .github / docs selon le cas
 - CODEOWNERS —> définit les personnes/équipes responsables de parties du code (contrôle des revues/approbations).
     
 
-## Bonnes pratiques rapides :
+## Bonnes pratiques de bases :
 
 - Placez README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, et CODEOWNERS à la racine ou dans .github/.
-- Mettez la documentation longue dans docs/.
+- Mettez la documentation longue dans docs/. 
 - Utilisez des liens relatifs dans vos Markdown pour référencer d’autres fichiers (ex. docs/CONTRIBUTING.md).
 - Pour créer/éditer ces fichiers directement sur GitHub : ouvrez le dépôt → Add file / Create new file ou cliquez sur un fichier existant → Edit file → Commit changes.
 
 ## infos utiles plus (à tester)
   
-- Emplacements importants : GitHub choisit le README à afficher selon l’ordre .github/ → racine → docs/. Vous pouvez aussi mettre d’autres fichiers info dans .github/ ou docs/ pour les centraliser.
+- GitHub choisit le README à afficher selon l’ordre .github/ → racine → docs/.
 - .gitattributes — règles Git/GitHub (ex. marquer des fichiers comme linguist-generated pour exclure des diffs/langage).
 - Fichiers de configuration et d’affichage : image de prévisualisation pour les réseaux sociaux (configurable via docs/images), badges, etc.
+- https://docs.github.com/fr
 
 ## Sources Copilot
 
