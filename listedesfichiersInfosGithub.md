@@ -20,12 +20,17 @@ Pour créer/éditer ces fichiers directement sur GitHub : ouvrez le dépôt → 
 
 ## Sources Copilot
 
-. https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes?versionId=free-pro-team%40latest&productId=get-started
-. https://docs.github.com/en/get-started/start-your-journey/uploading-a-project-to-github?versionId=free-pro-team%40latest&productId=get-started
-. https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories?versionId=free-pro-team%40latest&productId=get-started
-. https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository?versionId=free-pro-team%40latest&productId=get-started
-. https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github?versionId=free-pro-team%40latest&productId=get-started
-. https://docs.github.com/en/repositories/working-with-files/managing-files
+- https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-readmes?versionId=free-pro-team%40latest&productId=get-started
+
+- https://docs.github.com/en/get-started/start-your-journey/uploading-a-project-to-github?versionId=free-pro-team%40latest&productId=get-started
+
+- https://docs.github.com/en/repositories/creating-and-managing-repositories/quickstart-for-repositories?versionId=free-pro-team%40latest&productId=get-started
+
+- https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository?versionId=free-pro-team%40latest&productId=get-started
+
+- https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/quickstart-for-writing-on-github?versionId=free-pro-team%40latest&productId=get-started
+
+- https://docs.github.com/en/repositories/working-with-files/managing-files
 
 ## Phrases de recherches
 
