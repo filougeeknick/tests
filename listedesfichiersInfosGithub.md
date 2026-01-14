@@ -1,4 +1,8 @@
-- Outre README.md, voici les fichiers couramment utilisés dans un dépôt GitHub et leur utilité (emplacement conseillé : racine du dépôt ou dossier .github / docs selon le cas) :
+## Voici les fichiers couramment utilisés dans un dépôt GitHub et leur utilité 
+
+Emplacements possibles: racine du dépôt ou dossier .github / docs selon le cas
+
+- README.md -> explications affichées en dessousous de l'affichage du code dans GITHUB
 
 - LICENSE ou license.txt —> licence du projet (rend le projet réellement open source).
     
@@ -13,9 +17,9 @@
 
 ## Bonnes pratiques rapides :
 
-- lacez README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, et CODEOWNERS à la racine ou dans .github/.
+- Placez README.md, LICENSE, CONTRIBUTING.md, CODE_OF_CONDUCT.md, et CODEOWNERS à la racine ou dans .github/.
 - Mettez la documentation longue dans docs/.
-- tilisez des liens relatifs dans vos Markdown pour référencer d’autres fichiers (ex. docs/CONTRIBUTING.md).
+- Utilisez des liens relatifs dans vos Markdown pour référencer d’autres fichiers (ex. docs/CONTRIBUTING.md).
 - Pour créer/éditer ces fichiers directement sur GitHub : ouvrez le dépôt → Add file / Create new file ou cliquez sur un fichier existant → Edit file → Commit changes.
 
 ## infos utiles plus (à tester)
@@ -40,6 +44,7 @@
 
 ## Phrases de recherches
 
-    https://docs.github.com/?search-overlay-open=true&search-overlay-ask-ai=true&search-overlay-input=%C3%A0%20part%20le%20fichier%20Readme.md%20dans%20github%20quel%20sont%20les%20autre%20fichiers%20d'onfo%20github
-    https://docs.github.com/?search-overlay-open=true&search-overlay-ask-ai=true&search-overlay-input=%C3%A0%20part%20le%20fichier%20Readme.md%20dans%20github%20quel%20sont%20les%20autres%20fichiers%20d'info%20github
+- https://docs.github.com/?search-overlay-open=true&search-overlay-ask-ai=true&search-overlay-input=%C3%A0%20part%20le%20fichier%20Readme.md%20dans%20github%20quel%20sont%20les%20autre%20fichiers%20d'onfo%20github
+
+- https://docs.github.com/?search-overlay-open=true&search-overlay-ask-ai=true&search-overlay-input=%C3%A0%20part%20le%20fichier%20Readme.md%20dans%20github%20quel%20sont%20les%20autres%20fichiers%20d'info%20github
     
