@@ -1,4 +1,4 @@
-## Voici les fichiers couramment utilisés dans un dépôt GitHub et leur utilité 
+## Voici les fichiers couramment utilisés dans un dépôt GitHub et leur utilités ## 
 
 Emplacements possibles: racine du dépôt ou dossier .github ou / docs
 
